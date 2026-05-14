@@ -1,0 +1,104 @@
+{"index":{"_id":"a-0001"}}
+{"asset_id":"a-0001","client_id":"c1","client_name":"Acme Healthcare","asset_type":"Laptop","vendor":"Dell","model":"Latitude 5440","serial":"DLT-5440-001","status":"Active","warranty_expires_at":"2027-03-15","search_blob":"Acme Healthcare Dell Latitude 5440 DLT-5440-001 Laptop"}
+{"index":{"_id":"a-0002"}}
+{"asset_id":"a-0002","client_id":"c1","client_name":"Acme Healthcare","asset_type":"Laptop","vendor":"Dell","model":"Latitude 5440","serial":"DLT-5440-002","status":"Active","warranty_expires_at":"2027-03-15","search_blob":"Acme Healthcare Dell Latitude 5440 DLT-5440-002 Laptop"}
+{"index":{"_id":"a-0003"}}
+{"asset_id":"a-0003","client_id":"c1","client_name":"Acme Healthcare","asset_type":"Laptop","vendor":"Lenovo","model":"ThinkPad T14","serial":"LTP-T14-101","status":"Active","warranty_expires_at":"2026-11-20","search_blob":"Acme Healthcare Lenovo ThinkPad T14 LTP-T14-101 Laptop"}
+{"index":{"_id":"a-0004"}}
+{"asset_id":"a-0004","client_id":"c1","client_name":"Acme Healthcare","asset_type":"Desktop","vendor":"HP","model":"EliteDesk 800","serial":"HPE-ED800-44","status":"Active","warranty_expires_at":"2026-08-01","search_blob":"Acme Healthcare HP EliteDesk 800 HPE-ED800-44 Desktop"}
+{"index":{"_id":"a-0005"}}
+{"asset_id":"a-0005","client_id":"c1","client_name":"Acme Healthcare","asset_type":"Server","vendor":"HPE","model":"ProLiant DL380","serial":"HPE-DL380-99","status":"Active","warranty_expires_at":"2026-08-01","search_blob":"Acme Healthcare HPE ProLiant DL380 HPE-DL380-99 Server"}
+{"index":{"_id":"a-0006"}}
+{"asset_id":"a-0006","client_id":"c1","client_name":"Acme Healthcare","asset_type":"Server","vendor":"Dell","model":"PowerEdge R750","serial":"DPE-R750-22","status":"Active","warranty_expires_at":"2027-05-10","search_blob":"Acme Healthcare Dell PowerEdge R750 DPE-R750-22 Server"}
+{"index":{"_id":"a-0007"}}
+{"asset_id":"a-0007","client_id":"c1","client_name":"Acme Healthcare","asset_type":"Firewall","vendor":"Fortinet","model":"FortiGate 100F","serial":"FG100F-AC1","status":"Active","warranty_expires_at":"2025-12-31","search_blob":"Acme Healthcare Fortinet FortiGate 100F FG100F-AC1 Firewall"}
+{"index":{"_id":"a-0008"}}
+{"asset_id":"a-0008","client_id":"c1","client_name":"Acme Healthcare","asset_type":"NetworkSwitch","vendor":"Cisco","model":"Catalyst 9300","serial":"C9300-AC-01","status":"Active","warranty_expires_at":"2027-01-15","search_blob":"Acme Healthcare Cisco Catalyst 9300 C9300-AC-01 NetworkSwitch"}
+{"index":{"_id":"a-0009"}}
+{"asset_id":"a-0009","client_id":"c1","client_name":"Acme Healthcare","asset_type":"Printer","vendor":"Brother","model":"HL-L8360CDW","serial":"BRT-L836-77","status":"InRepair","warranty_expires_at":"2024-06-30","search_blob":"Acme Healthcare Brother HL-L8360CDW BRT-L836-77 Printer"}
+{"index":{"_id":"a-0010"}}
+{"asset_id":"a-0010","client_id":"c1","client_name":"Acme Healthcare","asset_type":"Laptop","vendor":"Apple","model":"MacBook Pro 14","serial":"MBP14-2023-1","status":"Active","warranty_expires_at":"2026-09-15","search_blob":"Acme Healthcare Apple MacBook Pro 14 MBP14-2023-1 Laptop"}
+{"index":{"_id":"a-0011"}}
+{"asset_id":"a-0011","client_id":"c1","client_name":"Acme Healthcare","asset_type":"Laptop","vendor":"Apple","model":"MacBook Pro 14","serial":"MBP14-2023-2","status":"Decommissioned","warranty_expires_at":"2024-09-15","search_blob":"Acme Healthcare Apple MacBook Pro 14 MBP14-2023-2 Laptop"}
+{"index":{"_id":"a-0012"}}
+{"asset_id":"a-0012","client_id":"c1","client_name":"Acme Healthcare","asset_type":"Desktop","vendor":"Dell","model":"OptiPlex 7090","serial":"DOP-7090-12","status":"Active","warranty_expires_at":"2025-04-20","search_blob":"Acme Healthcare Dell OptiPlex 7090 DOP-7090-12 Desktop"}
+{"index":{"_id":"a-0013"}}
+{"asset_id":"a-0013","client_id":"c2","client_name":"BlueRiver Logistics","asset_type":"Laptop","vendor":"Lenovo","model":"ThinkPad X1","serial":"LTP-X1-201","status":"Active","warranty_expires_at":"2027-02-28","search_blob":"BlueRiver Logistics Lenovo ThinkPad X1 LTP-X1-201 Laptop"}
+{"index":{"_id":"a-0014"}}
+{"asset_id":"a-0014","client_id":"c2","client_name":"BlueRiver Logistics","asset_type":"Laptop","vendor":"Lenovo","model":"ThinkPad X1","serial":"LTP-X1-202","status":"Active","warranty_expires_at":"2027-02-28","search_blob":"BlueRiver Logistics Lenovo ThinkPad X1 LTP-X1-202 Laptop"}
+{"index":{"_id":"a-0015"}}
+{"asset_id":"a-0015","client_id":"c2","client_name":"BlueRiver Logistics","asset_type":"Laptop","vendor":"Dell","model":"XPS 13","serial":"DXP-13-301","status":"Active","warranty_expires_at":"2026-12-01","search_blob":"BlueRiver Logistics Dell XPS 13 DXP-13-301 Laptop"}
+{"index":{"_id":"a-0016"}}
+{"asset_id":"a-0016","client_id":"c2","client_name":"BlueRiver Logistics","asset_type":"Server","vendor":"Dell","model":"PowerEdge R640","serial":"DPE-R640-77","status":"Active","warranty_expires_at":"2026-05-15","search_blob":"BlueRiver Logistics Dell PowerEdge R640 DPE-R640-77 Server"}
+{"index":{"_id":"a-0017"}}
+{"asset_id":"a-0017","client_id":"c2","client_name":"BlueRiver Logistics","asset_type":"NetworkSwitch","vendor":"Juniper","model":"EX4400","serial":"JNX-EX44-01","status":"Active","warranty_expires_at":"2027-08-22","search_blob":"BlueRiver Logistics Juniper EX4400 JNX-EX44-01 NetworkSwitch"}
+{"index":{"_id":"a-0018"}}
+{"asset_id":"a-0018","client_id":"c2","client_name":"BlueRiver Logistics","asset_type":"NetworkSwitch","vendor":"Juniper","model":"EX4400","serial":"JNX-EX44-02","status":"Active","warranty_expires_at":"2027-08-22","search_blob":"BlueRiver Logistics Juniper EX4400 JNX-EX44-02 NetworkSwitch"}
+{"index":{"_id":"a-0019"}}
+{"asset_id":"a-0019","client_id":"c2","client_name":"BlueRiver Logistics","asset_type":"Firewall","vendor":"Fortinet","model":"FortiGate 60F","serial":"FG60F-BR1","status":"Active","warranty_expires_at":"2026-04-10","search_blob":"BlueRiver Logistics Fortinet FortiGate 60F FG60F-BR1 Firewall"}
+{"index":{"_id":"a-0020"}}
+{"asset_id":"a-0020","client_id":"c2","client_name":"BlueRiver Logistics","asset_type":"Printer","vendor":"Canon","model":"imageRUNNER 1643","serial":"CNN-IR1643-1","status":"Active","warranty_expires_at":"2025-10-05","search_blob":"BlueRiver Logistics Canon imageRUNNER 1643 CNN-IR1643-1 Printer"}
+{"index":{"_id":"a-0021"}}
+{"asset_id":"a-0021","client_id":"c2","client_name":"BlueRiver Logistics","asset_type":"Desktop","vendor":"HP","model":"ProDesk 600","serial":"HPP-PD600-1","status":"Decommissioned","warranty_expires_at":"2023-11-20","search_blob":"BlueRiver Logistics HP ProDesk 600 HPP-PD600-1 Desktop"}
+{"index":{"_id":"a-0022"}}
+{"asset_id":"a-0022","client_id":"c2","client_name":"BlueRiver Logistics","asset_type":"Laptop","vendor":"Dell","model":"Latitude 7440","serial":"DLT-7440-301","status":"Active","warranty_expires_at":"2026-07-30","search_blob":"BlueRiver Logistics Dell Latitude 7440 DLT-7440-301 Laptop"}
+{"index":{"_id":"a-0023"}}
+{"asset_id":"a-0023","client_id":"c3","client_name":"Northwind Manufacturing","asset_type":"Server","vendor":"HPE","model":"ProLiant DL360","serial":"HPE-DL360-11","status":"Active","warranty_expires_at":"2026-11-30","search_blob":"Northwind Manufacturing HPE ProLiant DL360 HPE-DL360-11 Server"}
+{"index":{"_id":"a-0024"}}
+{"asset_id":"a-0024","client_id":"c3","client_name":"Northwind Manufacturing","asset_type":"Server","vendor":"HPE","model":"ProLiant DL360","serial":"HPE-DL360-12","status":"Active","warranty_expires_at":"2026-11-30","search_blob":"Northwind Manufacturing HPE ProLiant DL360 HPE-DL360-12 Server"}
+{"index":{"_id":"a-0025"}}
+{"asset_id":"a-0025","client_id":"c3","client_name":"Northwind Manufacturing","asset_type":"Server","vendor":"HPE","model":"ProLiant DL580","serial":"HPE-DL580-01","status":"Active","warranty_expires_at":"2027-04-15","search_blob":"Northwind Manufacturing HPE ProLiant DL580 HPE-DL580-01 Server"}
+{"index":{"_id":"a-0026"}}
+{"asset_id":"a-0026","client_id":"c3","client_name":"Northwind Manufacturing","asset_type":"NetworkSwitch","vendor":"Cisco","model":"Catalyst 9500","serial":"C9500-NW-01","status":"Active","warranty_expires_at":"2027-06-01","search_blob":"Northwind Manufacturing Cisco Catalyst 9500 C9500-NW-01 NetworkSwitch"}
+{"index":{"_id":"a-0027"}}
+{"asset_id":"a-0027","client_id":"c3","client_name":"Northwind Manufacturing","asset_type":"NetworkSwitch","vendor":"Cisco","model":"Catalyst 9300","serial":"C9300-NW-02","status":"Active","warranty_expires_at":"2027-06-01","search_blob":"Northwind Manufacturing Cisco Catalyst 9300 C9300-NW-02 NetworkSwitch"}
+{"index":{"_id":"a-0028"}}
+{"asset_id":"a-0028","client_id":"c3","client_name":"Northwind Manufacturing","asset_type":"Firewall","vendor":"Palo Alto","model":"PA-3220","serial":"PA-3220-NW1","status":"Active","warranty_expires_at":"2026-09-20","search_blob":"Northwind Manufacturing Palo Alto PA-3220 PA-3220-NW1 Firewall"}
+{"index":{"_id":"a-0029"}}
+{"asset_id":"a-0029","client_id":"c3","client_name":"Northwind Manufacturing","asset_type":"Firewall","vendor":"Palo Alto","model":"PA-3220","serial":"PA-3220-NW2","status":"Active","warranty_expires_at":"2026-09-20","search_blob":"Northwind Manufacturing Palo Alto PA-3220 PA-3220-NW2 Firewall"}
+{"index":{"_id":"a-0030"}}
+{"asset_id":"a-0030","client_id":"c3","client_name":"Northwind Manufacturing","asset_type":"Desktop","vendor":"Lenovo","model":"ThinkCentre M70","serial":"LTC-M70-401","status":"Active","warranty_expires_at":"2026-03-01","search_blob":"Northwind Manufacturing Lenovo ThinkCentre M70 LTC-M70-401 Desktop"}
+{"index":{"_id":"a-0031"}}
+{"asset_id":"a-0031","client_id":"c3","client_name":"Northwind Manufacturing","asset_type":"Desktop","vendor":"Lenovo","model":"ThinkCentre M70","serial":"LTC-M70-402","status":"Active","warranty_expires_at":"2026-03-01","search_blob":"Northwind Manufacturing Lenovo ThinkCentre M70 LTC-M70-402 Desktop"}
+{"index":{"_id":"a-0032"}}
+{"asset_id":"a-0032","client_id":"c3","client_name":"Northwind Manufacturing","asset_type":"Laptop","vendor":"Dell","model":"Precision 5680","serial":"DPR-5680-501","status":"Active","warranty_expires_at":"2027-01-10","search_blob":"Northwind Manufacturing Dell Precision 5680 DPR-5680-501 Laptop"}
+{"index":{"_id":"a-0033"}}
+{"asset_id":"a-0033","client_id":"c3","client_name":"Northwind Manufacturing","asset_type":"Printer","vendor":"Brother","model":"MFC-L9570CDW","serial":"BRT-9570-22","status":"InRepair","warranty_expires_at":"2024-02-15","search_blob":"Northwind Manufacturing Brother MFC-L9570CDW BRT-9570-22 Printer"}
+{"index":{"_id":"a-0034"}}
+{"asset_id":"a-0034","client_id":"c3","client_name":"Northwind Manufacturing","asset_type":"Laptop","vendor":"HP","model":"EliteBook 840","serial":"HPE-EB840-1","status":"Decommissioned","warranty_expires_at":"2023-06-01","search_blob":"Northwind Manufacturing HP EliteBook 840 HPE-EB840-1 Laptop"}
+{"index":{"_id":"a-0035"}}
+{"asset_id":"a-0035","client_id":"c4","client_name":"PinePoint Legal","asset_type":"Laptop","vendor":"Apple","model":"MacBook Pro 16","serial":"MBP16-PL-01","status":"Active","warranty_expires_at":"2026-12-15","search_blob":"PinePoint Legal Apple MacBook Pro 16 MBP16-PL-01 Laptop"}
+{"index":{"_id":"a-0036"}}
+{"asset_id":"a-0036","client_id":"c4","client_name":"PinePoint Legal","asset_type":"Laptop","vendor":"Apple","model":"MacBook Pro 16","serial":"MBP16-PL-02","status":"Active","warranty_expires_at":"2026-12-15","search_blob":"PinePoint Legal Apple MacBook Pro 16 MBP16-PL-02 Laptop"}
+{"index":{"_id":"a-0037"}}
+{"asset_id":"a-0037","client_id":"c4","client_name":"PinePoint Legal","asset_type":"Laptop","vendor":"Apple","model":"MacBook Air 13","serial":"MBA13-PL-01","status":"Active","warranty_expires_at":"2027-03-20","search_blob":"PinePoint Legal Apple MacBook Air 13 MBA13-PL-01 Laptop"}
+{"index":{"_id":"a-0038"}}
+{"asset_id":"a-0038","client_id":"c4","client_name":"PinePoint Legal","asset_type":"Desktop","vendor":"Apple","model":"iMac 24","serial":"IMC24-PL-01","status":"Active","warranty_expires_at":"2026-10-10","search_blob":"PinePoint Legal Apple iMac 24 IMC24-PL-01 Desktop"}
+{"index":{"_id":"a-0039"}}
+{"asset_id":"a-0039","client_id":"c4","client_name":"PinePoint Legal","asset_type":"Server","vendor":"Dell","model":"PowerEdge T440","serial":"DPE-T440-PL","status":"Active","warranty_expires_at":"2026-06-15","search_blob":"PinePoint Legal Dell PowerEdge T440 DPE-T440-PL Server"}
+{"index":{"_id":"a-0040"}}
+{"asset_id":"a-0040","client_id":"c4","client_name":"PinePoint Legal","asset_type":"NetworkSwitch","vendor":"Aruba","model":"CX 6300","serial":"ARB-CX63-PL","status":"Active","warranty_expires_at":"2027-05-01","search_blob":"PinePoint Legal Aruba CX 6300 ARB-CX63-PL NetworkSwitch"}
+{"index":{"_id":"a-0041"}}
+{"asset_id":"a-0041","client_id":"c4","client_name":"PinePoint Legal","asset_type":"Firewall","vendor":"Fortinet","model":"FortiGate 80F","serial":"FG80F-PL-01","status":"Active","warranty_expires_at":"2026-08-12","search_blob":"PinePoint Legal Fortinet FortiGate 80F FG80F-PL-01 Firewall"}
+{"index":{"_id":"a-0042"}}
+{"asset_id":"a-0042","client_id":"c4","client_name":"PinePoint Legal","asset_type":"Printer","vendor":"Canon","model":"imageCLASS MF","serial":"CNN-MFPL-01","status":"Active","warranty_expires_at":"2025-11-30","search_blob":"PinePoint Legal Canon imageCLASS MF CNN-MFPL-01 Printer"}
+{"index":{"_id":"a-0043"}}
+{"asset_id":"a-0043","client_id":"c5","client_name":"Summit Retail","asset_type":"Laptop","vendor":"HP","model":"ProBook 450","serial":"HPB-450-SR1","status":"Active","warranty_expires_at":"2026-04-25","search_blob":"Summit Retail HP ProBook 450 HPB-450-SR1 Laptop"}
+{"index":{"_id":"a-0044"}}
+{"asset_id":"a-0044","client_id":"c5","client_name":"Summit Retail","asset_type":"Laptop","vendor":"HP","model":"ProBook 450","serial":"HPB-450-SR2","status":"Active","warranty_expires_at":"2026-04-25","search_blob":"Summit Retail HP ProBook 450 HPB-450-SR2 Laptop"}
+{"index":{"_id":"a-0045"}}
+{"asset_id":"a-0045","client_id":"c5","client_name":"Summit Retail","asset_type":"Laptop","vendor":"HP","model":"ProBook 450","serial":"HPB-450-SR3","status":"Active","warranty_expires_at":"2026-04-25","search_blob":"Summit Retail HP ProBook 450 HPB-450-SR3 Laptop"}
+{"index":{"_id":"a-0046"}}
+{"asset_id":"a-0046","client_id":"c5","client_name":"Summit Retail","asset_type":"Desktop","vendor":"Dell","model":"OptiPlex 3000","serial":"DOP-3000-SR","status":"Active","warranty_expires_at":"2026-01-15","search_blob":"Summit Retail Dell OptiPlex 3000 DOP-3000-SR Desktop"}
+{"index":{"_id":"a-0047"}}
+{"asset_id":"a-0047","client_id":"c5","client_name":"Summit Retail","asset_type":"Server","vendor":"Dell","model":"PowerEdge R350","serial":"DPE-R350-SR","status":"Active","warranty_expires_at":"2025-09-01","search_blob":"Summit Retail Dell PowerEdge R350 DPE-R350-SR Server"}
+{"index":{"_id":"a-0048"}}
+{"asset_id":"a-0048","client_id":"c5","client_name":"Summit Retail","asset_type":"NetworkSwitch","vendor":"Cisco","model":"Catalyst 1000","serial":"C1000-SR-01","status":"Active","warranty_expires_at":"2026-02-28","search_blob":"Summit Retail Cisco Catalyst 1000 C1000-SR-01 NetworkSwitch"}
+{"index":{"_id":"a-0049"}}
+{"asset_id":"a-0049","client_id":"c5","client_name":"Summit Retail","asset_type":"NetworkSwitch","vendor":"Cisco","model":"Catalyst 1000","serial":"C1000-SR-02","status":"Active","warranty_expires_at":"2026-02-28","search_blob":"Summit Retail Cisco Catalyst 1000 C1000-SR-02 NetworkSwitch"}
+{"index":{"_id":"a-0050"}}
+{"asset_id":"a-0050","client_id":"c5","client_name":"Summit Retail","asset_type":"Firewall","vendor":"SonicWall","model":"TZ370","serial":"SW-TZ370-SR","status":"Active","warranty_expires_at":"2026-11-08","search_blob":"Summit Retail SonicWall TZ370 SW-TZ370-SR Firewall"}
+{"index":{"_id":"a-0051"}}
+{"asset_id":"a-0051","client_id":"c5","client_name":"Summit Retail","asset_type":"Printer","vendor":"Brother","model":"HL-L2370DW","serial":"BRT-2370-SR","status":"Active","warranty_expires_at":"2024-12-01","search_blob":"Summit Retail Brother HL-L2370DW BRT-2370-SR Printer"}
+{"index":{"_id":"a-0052"}}
+{"asset_id":"a-0052","client_id":"c5","client_name":"Summit Retail","asset_type":"Laptop","vendor":"Lenovo","model":"IdeaPad 5","serial":"LIP-5-SR-01","status":"Decommissioned","warranty_expires_at":"2023-08-20","search_blob":"Summit Retail Lenovo IdeaPad 5 LIP-5-SR-01 Laptop"}

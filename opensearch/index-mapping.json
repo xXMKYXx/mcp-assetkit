@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0
+  },
+  "mappings": {
+    "properties": {
+      "asset_id":            { "type": "keyword" },
+      "client_id":           { "type": "keyword" },
+      "client_name":         { "type": "text", "fields": { "raw": { "type": "keyword" } } },
+      "asset_type":          { "type": "keyword" },
+      "vendor":              { "type": "text", "fields": { "raw": { "type": "keyword" } } },
+      "model":               { "type": "text" },
+      "serial":              { "type": "keyword" },
+      "status":              { "type": "keyword" },
+      "warranty_expires_at": { "type": "date" },
+      "search_blob":         { "type": "text" }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+# .NET build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/launch.json
+
+# Rider / JetBrains
+.idea/
+
+# Local environment overrides
+.env
+*.local.json
+appsettings.Local.json
+
+# Docker volumes (managed; not files)
+docker/volumes/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
