@@ -8,6 +8,11 @@ public sealed class MariaDbAssetStore
 {
     private readonly string _connectionString;
 
+    static MariaDbAssetStore()
+    {
+        SqlMapper.AddTypeHandler(new DateOnlyTypeHandler());
+    }
+
     public MariaDbAssetStore(string connectionString)
     {
         _connectionString = connectionString;

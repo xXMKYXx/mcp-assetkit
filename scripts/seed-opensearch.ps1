@@ -13,7 +13,7 @@ Invoke-RestMethod -Method Put -Uri "$base/assets" `
     -ContentType "application/json" -InFile $mapping | Out-Null
 
 Write-Host "Bulk-indexing seed documents..."
-Invoke-RestMethod -Method Post -Uri "$base/_bulk" `
+Invoke-RestMethod -Method Post -Uri "$base/assets/_bulk" `
     -ContentType "application/x-ndjson" -InFile $seed | Out-Null
 
 Write-Host "Refreshing index..."
