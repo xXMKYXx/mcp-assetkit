@@ -14,7 +14,7 @@ public static class AssetTools
         PropertyNamingPolicy = JsonNamingPolicy.SnakeCaseLower,
     };
 
-    [McpServerTool, Description(
+    [McpServerTool(Name = "search_assets"), Description(
         "Full-text search across MSP-style assets (vendor, model, client name). " +
         "Backed by OpenSearch. Use this for free-text queries like 'Dell laptop' or 'Acme firewall'.")]
     public static async Task<string> SearchAssets(
@@ -27,7 +27,7 @@ public static class AssetTools
         return JsonSerializer.Serialize(results, JsonOpts);
     }
 
-    [McpServerTool, Description(
+    [McpServerTool(Name = "get_asset"), Description(
         "Get a single asset by ID from the authoritative MariaDB store. Returns null if not found.")]
     public static async Task<string> GetAsset(
         MariaDbAssetStore store,
@@ -38,7 +38,7 @@ public static class AssetTools
         return JsonSerializer.Serialize(asset, JsonOpts);
     }
 
-    [McpServerTool, Description(
+    [McpServerTool(Name = "list_assets_by_client"), Description(
         "List assets for a client, optionally filtered by status. " +
         "Status values: Active, Decommissioned, InRepair.")]
     public static async Task<string> ListAssetsByClient(
@@ -52,7 +52,7 @@ public static class AssetTools
         return JsonSerializer.Serialize(assets, JsonOpts);
     }
 
-    [McpServerTool, Description(
+    [McpServerTool(Name = "list_clients"), Description(
         "List all MSP clients. Returns client ID, name, and industry — useful as a starting " +
         "point for navigating the inventory.")]
     public static async Task<string> ListClients(
@@ -63,7 +63,7 @@ public static class AssetTools
         return JsonSerializer.Serialize(clients, JsonOpts);
     }
 
-    [McpServerTool, Description(
+    [McpServerTool(Name = "warranty_status_counts"), Description(
         "Aggregate counts of assets by warranty bucket: Expired, ExpiringSoon (next 90 days), Active. " +
         "Backed by an OpenSearch date_range aggregation.")]
     public static async Task<string> WarrantyStatusCounts(
